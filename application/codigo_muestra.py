@@ -1,7 +1,8 @@
+
+import random
+
 from time import sleep
 import pandas as pd
-from datetime import datetime
-import random
 
 
 def add_numbers(a:float, b:float)-> float:
